@@ -22,6 +22,7 @@ When the user asks for an interactive artifact, playground, explorer, or visual 
    - `templates/diff-review.md` — Code review (git diffs, commits, PRs with line-by-line commenting)
    - `templates/code-map.md` — Codebase architecture (component relationships, data flow, layer diagrams)
 3. **Follow the template** to build the artifact. If the topic doesn't fit any template cleanly, use the one closest and adapt.
+4. **Open in browser.** After writing the HTML file, run `open <filename>.html` to launch it in the user's default browser.
 
 ## Core requirements (every artifact)
 
