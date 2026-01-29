@@ -19,6 +19,7 @@ When the user asks for an interactive artifact, playground, explorer, or visual 
    - `templates/data-explorer.md` — Data and query building (SQL, APIs, pipelines, regex)
    - `templates/concept-map.md` — Learning and exploration (concept maps, knowledge gaps, scope mapping)
    - `templates/writing-tool.md` — Writing and content (tone, document structure, audience)
+   - `templates/diff-review.md` — Code review (git diffs, commits, PRs with line-by-line commenting)
 3. **Follow the template** to build the artifact. If the topic doesn't fit any template cleanly, use the one closest and adapt.
 
 ## Core requirements (every artifact)
