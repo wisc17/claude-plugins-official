@@ -180,7 +180,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "5935c4330dea4dfb8e93568956b10a543ecdb3d1"
+        "sha": "535a040ca9e27aaed6da13f0f959625fb3294820"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -190,7 +190,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/atlanhq/agent-toolkit.git",
-        "sha": "acdf284da6aa98b14f8dad90a9827006d8df425c"
+        "sha": "790398c87378f128bdc74c31bb7ecfb8e4695f29"
       },
       "homepage": "https://docs.atlan.com/"
     },
@@ -311,7 +311,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/AzureCosmosDB/cosmosdb-claude-code-plugin.git",
-        "sha": "23c168856e4435793bd27a72d4714f022a3a1e90"
+        "sha": "f1e0498579a9251e5f3179b92d25d6ce3409bae5"
       },
       "description": "Expert assistant for Azure Cosmos DB — data modeling, query optimization, performance tuning, and best practices.",
       "category": "database",
@@ -324,7 +324,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "c7039b37eca0e2916a565a7395040c00055bcf8b"
+        "sha": "ec420cf2edd2c7e9a523d5afe2e71498a6357fa4"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -350,7 +350,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/box/box-for-ai.git",
-        "sha": "0fb23244e3c35cd562206c80eff1e22c456046ea"
+        "sha": "16f1a0427710b0812519ea634cd5ce6830bde8fc"
       },
       "homepage": "https://github.com/box/box-for-ai"
     },
@@ -371,7 +371,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cap-js/mcp-server.git",
-        "sha": "4d59d7070a52761a9b8028cbe710c8d7477cbc92"
+        "sha": "8ce2e13ac70bd78415aedeaab0061af9396d3372"
       },
       "homepage": "https://cap.cloud.sap/"
     },
@@ -467,7 +467,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudflare/skills.git",
-        "sha": "0397d7d88fa6ac7517a88389622eb0799e86ded2"
+        "sha": "60147cbb773649eadca89cee92b4e0caf02234b4"
       },
       "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance.",
       "category": "deployment",
@@ -587,7 +587,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "5935c4330dea4dfb8e93568956b10a543ecdb3d1"
+        "sha": "535a040ca9e27aaed6da13f0f959625fb3294820"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -610,7 +610,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "5935c4330dea4dfb8e93568956b10a543ecdb3d1"
+        "sha": "535a040ca9e27aaed6da13f0f959625fb3294820"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -742,7 +742,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fastly/fastly-agent-toolkit.git",
-        "sha": "329331c887512850f13e481b45c4298c0387a4d2"
+        "sha": "e0f4205723b843de0b07da4a2aea6c84a3bcb579"
       },
       "homepage": "https://github.com/fastly/fastly-agent-toolkit/blob/main/README.md"
     },
@@ -763,7 +763,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/voxel51/fiftyone-skills.git",
-        "sha": "02bd4ea170ca01a751c2d2dd6bf2df8f62e65626"
+        "sha": "ae5036a13cc2059a269669ec1bbb26df7c24de90"
       },
       "homepage": "https://docs.voxel51.com/"
     },
@@ -820,7 +820,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/followrabbit-ai/awesome-rabbit.git",
-        "sha": "6926154501300d348a7b50d47479648fe87985b6"
+        "sha": "cce25b74856ab3574474d3b0b21bd75a60926086"
       },
       "homepage": "https://subscriptions.agentic.followrabbit.ai/"
     },
@@ -946,7 +946,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/intercom/claude-plugin-external.git",
-        "sha": "52653572c47700443eb61154c4e4334a355e755e"
+        "sha": "62773a7d4b8aac31545d6888fe6479be3bc53804"
       },
       "homepage": "https://github.com/intercom/claude-plugin-external"
     },
@@ -1155,7 +1155,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mintlify/mintlify-claude-plugin.git",
-        "sha": "acd6d2e0128c4f235d55cfb8d8c91ecbdd5df8cc"
+        "sha": "0436f38141238860186f48d9918c39bc94fe5b59"
       },
       "homepage": "https://www.mintlify.com/"
     },
@@ -1379,7 +1379,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gitroomhq/postiz-agent.git",
-        "sha": "37d627244c53a4b3a7ca94c52cc2db13aaaf468e"
+        "sha": "1ba8fd4d48a8b9ee6ce1ce2dc5b3bae7bd92dfc5"
       },
       "homepage": "https://postiz.com/agent"
     },
@@ -1390,7 +1390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Postman-Devrel/postman-claude-code-plugin.git",
-        "sha": "416e40da03a237df7bf03f4362cf6fc7b989b567"
+        "sha": "ca6853a07a6c6c72f9c3c57e7e6ab8effdfba11a"
       },
       "homepage": "https://learning.postman.com/docs/developer/postman-mcp-server/"
     },
@@ -1522,7 +1522,7 @@
         "url": "https://github.com/railwayapp/railway-skills.git",
         "path": "plugins/railway",
         "ref": "main",
-        "sha": "eaa89d8f594412b0b837b6531241e7d166e12202"
+        "sha": "a816833b1346961138076e3adbf8f3bbd83093f9"
       },
       "homepage": "https://docs.railway.com/ai/claude-code-plugin"
     },
@@ -1544,7 +1544,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/RevenueCat/rc-claude-code-plugin.git",
-        "sha": "af7cb77996aee4e7e3c109c5afec81f716139032"
+        "sha": "407e4651ff74dbaf47c457948ab540e620403c2a"
       },
       "homepage": "https://www.revenuecat.com"
     },
@@ -1554,7 +1554,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Digital-Process-Tools/claude-remember.git",
-        "sha": "914445ac5f06a164800ea90ba4db41a0486321ae"
+        "sha": "6a195931add58e68cd6e8563697fabceb1407253"
       },
       "homepage": "https://github.com/Digital-Process-Tools/claude-remember"
     },
@@ -1565,7 +1565,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/RevenueCat/rc-claude-code-plugin.git",
-        "sha": "af7cb77996aee4e7e3c109c5afec81f716139032"
+        "sha": "407e4651ff74dbaf47c457948ab540e620403c2a"
       },
       "homepage": "https://www.revenuecat.com"
     },
